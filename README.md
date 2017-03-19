@@ -1,4 +1,4 @@
-# Meteor CL commands
+# Meteor CL
 
 - `..cd`
 - `mongodump -h candidate.5.mongolayer.com:10442   -d dart-dev -u dartDev -p Dart2015!`
