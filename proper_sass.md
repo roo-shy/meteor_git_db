@@ -1,4 +1,4 @@
-## Sass & App
+## Sass structure best practices
 
 ---
 
