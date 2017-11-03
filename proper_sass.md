@@ -1,8 +1,4 @@
-## Sass structure best practices
-
----
-
-### Naming Conventions:
+## Styles structure - best practices
 
 #### Optional
 - two (2) spaces indents, no tabs
